@@ -1,204 +1,1204 @@
 {
   "tags": [
-    { "title": "JavaScript", "amountOfVideos": 108 },
-    { "title": "Python", "amountOfVideos": 76 },
-    { "title": "Machine Learning", "amountOfVideos": 93 },
-    { "title": "Web Development", "amountOfVideos": 121 },
-    { "title": "Data Science", "amountOfVideos": 84 },
-    { "title": "React", "amountOfVideos": 142 },
-    { "title": "Java", "amountOfVideos": 115 },
-    { "title": "Node.js", "amountOfVideos": 99 },
-    { "title": "Angular", "amountOfVideos": 130 },
-    { "title": "Vue.js", "amountOfVideos": 88 },
-    { "title": "GraphQL", "amountOfVideos": 110},
-    { "title": "Django", "amountOfVideos": 95},
-    { "title": "C++ Programming", "amountOfVideos": 78},
-    { "title": "AWS Cloud", "amountOfVideos": 135},
-    { "title": "Mobile App Development", "amountOfVideos": 123},
-    { "title": "Cybersecurity", "amountOfVideos": 104},
-    { "title": "Ruby on Rails", "amountOfVideos": 88},
-    { "title": "Unity Game Development", "amountOfVideos": 117},
-    { "title": "DevOps", "amountOfVideos": 92},
-    { "title": "React Native", "amountOfVideos": 99},
-    { "title": "Vue.js Components", "amountOfVideos": 80},
-    { "title": "Artificial Intelligence Basics", "amountOfVideos": 150},
-    { "title": "iOS App Development", "amountOfVideos": 115},
-    { "title": "Swift Programming", "amountOfVideos": 98},
-    { "title": "React Hooks", "amountOfVideos": 105},
-    { "title": "Big Data Analytics", "amountOfVideos": 130},
-    { "title": "Flutter Framework", "amountOfVideos": 88},
-    { "title": "Blockchain Fundamentals", "amountOfVideos": 120},
-    { "title": "Linux Administration", "amountOfVideos": 95},
-    { "title": "Vue.js Advanced Techniques", "amountOfVideos": 112},
-    { "title": "JavaScript", "amountOfVideos": 108 },
-    { "title": "Python", "amountOfVideos": 76 },
-    { "title": "Machine Learning", "amountOfVideos": 93 },
-    { "title": "Web Development", "amountOfVideos": 121 },
-    { "title": "Data Science", "amountOfVideos": 84 },
-    { "title": "React", "amountOfVideos": 142 },
-    { "title": "Java", "amountOfVideos": 115 },
-    { "title": "Node.js", "amountOfVideos": 99 },
-    { "title": "Angular", "amountOfVideos": 130 },
-    { "title": "Vue.js", "amountOfVideos": 88 },
-    { "title": "GraphQL", "amountOfVideos": 110},
-    { "title": "Django", "amountOfVideos": 95},
-    { "title": "C++ Programming", "amountOfVideos": 78},
-    { "title": "AWS Cloud", "amountOfVideos": 135},
-    { "title": "Mobile App Development", "amountOfVideos": 123},
-    { "title": "Cybersecurity", "amountOfVideos": 104},
-    { "title": "Ruby on Rails", "amountOfVideos": 88},
-    { "title": "Unity Game Development", "amountOfVideos": 117},
-    { "title": "DevOps", "amountOfVideos": 92},
-    { "title": "React Native", "amountOfVideos": 99},
-    { "title": "Vue.js Components", "amountOfVideos": 80},
-    { "title": "Artificial Intelligence Basics", "amountOfVideos": 150},
-    { "title": "iOS App Development", "amountOfVideos": 115},
-    { "title": "Swift Programming", "amountOfVideos": 98},
-    { "title": "React Hooks", "amountOfVideos": 105},
-    { "title": "Big Data Analytics", "amountOfVideos": 130},
-    { "title": "Flutter Framework", "amountOfVideos": 88},
-    { "title": "Blockchain Fundamentals", "amountOfVideos": 120},
-    { "title": "Linux Administration", "amountOfVideos": 95},
-    { "title": "Vue.js Advanced Techniques", "amountOfVideos": 112},
-    { "title": "JavaScript", "amountOfVideos": 108 },
-    { "title": "Python", "amountOfVideos": 76 },
-    { "title": "Machine Learning", "amountOfVideos": 93 },
-    { "title": "Web Development", "amountOfVideos": 121 },
-    { "title": "Data Science", "amountOfVideos": 84 },
-    { "title": "React", "amountOfVideos": 142 },
-    { "title": "Java", "amountOfVideos": 115 },
-    { "title": "Node.js", "amountOfVideos": 99 },
-    { "title": "Angular", "amountOfVideos": 130 },
-    { "title": "Vue.js", "amountOfVideos": 88 },
-    { "title": "GraphQL", "amountOfVideos": 110},
-    { "title": "Django", "amountOfVideos": 95},
-    { "title": "C++ Programming", "amountOfVideos": 78},
-    { "title": "AWS Cloud", "amountOfVideos": 135},
-    { "title": "Mobile App Development", "amountOfVideos": 123},
-    { "title": "Cybersecurity", "amountOfVideos": 104},
-    { "title": "Ruby on Rails", "amountOfVideos": 88},
-    { "title": "Unity Game Development", "amountOfVideos": 117},
-    { "title": "DevOps", "amountOfVideos": 92},
-    { "title": "React Native", "amountOfVideos": 99},
-    { "title": "Vue.js Components", "amountOfVideos": 80},
-    { "title": "Artificial Intelligence Basics", "amountOfVideos": 150},
-    { "title": "iOS App Development", "amountOfVideos": 115},
-    { "title": "Swift Programming", "amountOfVideos": 98},
-    { "title": "React Hooks", "amountOfVideos": 105},
-    { "title": "Big Data Analytics", "amountOfVideos": 130},
-    { "title": "Flutter Framework", "amountOfVideos": 88},
-    { "title": "Blockchain Fundamentals", "amountOfVideos": 120},
-    { "title": "Linux Administration", "amountOfVideos": 95},
-    { "title": "Vue.js Advanced Techniques", "amountOfVideos": 112},
-    { "title": "JavaScript", "amountOfVideos": 108 },
-    { "title": "Python", "amountOfVideos": 76 },
-    { "title": "Machine Learning", "amountOfVideos": 93 },
-    { "title": "Web Development", "amountOfVideos": 121 },
-    { "title": "Data Science", "amountOfVideos": 84 },
-    { "title": "React", "amountOfVideos": 142 },
-    { "title": "Java", "amountOfVideos": 115 },
-    { "title": "Node.js", "amountOfVideos": 99 },
-    { "title": "Angular", "amountOfVideos": 130 },
-    { "title": "Vue.js", "amountOfVideos": 88 },
-    { "title": "GraphQL", "amountOfVideos": 110},
-    { "title": "Django", "amountOfVideos": 95},
-    { "title": "C++ Programming", "amountOfVideos": 78},
-    { "title": "AWS Cloud", "amountOfVideos": 135},
-    { "title": "Mobile App Development", "amountOfVideos": 123},
-    { "title": "Cybersecurity", "amountOfVideos": 104},
-    { "title": "Ruby on Rails", "amountOfVideos": 88},
-    { "title": "Unity Game Development", "amountOfVideos": 117},
-    { "title": "DevOps", "amountOfVideos": 92},
-    { "title": "React Native", "amountOfVideos": 99},
-    { "title": "Vue.js Components", "amountOfVideos": 80},
-    { "title": "Artificial Intelligence Basics", "amountOfVideos": 150},
-    { "title": "iOS App Development", "amountOfVideos": 115},
-    { "title": "Swift Programming", "amountOfVideos": 98},
-    { "title": "React Hooks", "amountOfVideos": 105},
-    { "title": "Big Data Analytics", "amountOfVideos": 130},
-    { "title": "Flutter Framework", "amountOfVideos": 88},
-    { "title": "Blockchain Fundamentals", "amountOfVideos": 120},
-    { "title": "Linux Administration", "amountOfVideos": 95},
-    { "title": "Vue.js Advanced Techniques", "amountOfVideos": 112},
-    { "title": "JavaScript", "amountOfVideos": 108 },
-    { "title": "Python", "amountOfVideos": 76 },
-    { "title": "Machine Learning", "amountOfVideos": 93 },
-    { "title": "Web Development", "amountOfVideos": 121 },
-    { "title": "Data Science", "amountOfVideos": 84 },
-    { "title": "React", "amountOfVideos": 142 },
-    { "title": "Java", "amountOfVideos": 115 },
-    { "title": "Node.js", "amountOfVideos": 99 },
-    { "title": "Angular", "amountOfVideos": 130 },
-    { "title": "Vue.js", "amountOfVideos": 88 },
-    { "title": "GraphQL", "amountOfVideos": 110},
-    { "title": "Django", "amountOfVideos": 95},
-    { "title": "C++ Programming", "amountOfVideos": 78},
-    { "title": "AWS Cloud", "amountOfVideos": 135},
-    { "title": "Mobile App Development", "amountOfVideos": 123},
-    { "title": "Cybersecurity", "amountOfVideos": 104},
-    { "title": "Ruby on Rails", "amountOfVideos": 88},
-    { "title": "Unity Game Development", "amountOfVideos": 117},
-    { "title": "DevOps", "amountOfVideos": 92},
-    { "title": "React Native", "amountOfVideos": 99},
-    { "title": "Vue.js Components", "amountOfVideos": 80},
-    { "title": "Artificial Intelligence Basics", "amountOfVideos": 150},
-    { "title": "iOS App Development", "amountOfVideos": 115},
-    { "title": "Swift Programming", "amountOfVideos": 98},
-    { "title": "React Hooks", "amountOfVideos": 105},
-    { "title": "Big Data Analytics", "amountOfVideos": 130},
-    { "title": "Flutter Framework", "amountOfVideos": 88},
-    { "title": "Blockchain Fundamentals", "amountOfVideos": 120},
-    { "title": "Linux Administration", "amountOfVideos": 95},
-    { "title": "Vue.js Advanced Techniques", "amountOfVideos": 112},
-    { "title": "JavaScript", "amountOfVideos": 108 },
-    { "title": "Python", "amountOfVideos": 76 },
-    { "title": "Machine Learning", "amountOfVideos": 93 },
-    { "title": "Web Development", "amountOfVideos": 121 },
-    { "title": "Data Science", "amountOfVideos": 84 },
-    { "title": "React", "amountOfVideos": 142 },
-    { "title": "Java", "amountOfVideos": 115 },
-    { "title": "Node.js", "amountOfVideos": 99 },
-    { "title": "Angular", "amountOfVideos": 130 },
-    { "title": "Vue.js", "amountOfVideos": 88 },
-    { "title": "GraphQL", "amountOfVideos": 110},
-    { "title": "Django", "amountOfVideos": 95},
-    { "title": "C++ Programming", "amountOfVideos": 78},
-    { "title": "AWS Cloud", "amountOfVideos": 135},
-    { "title": "Mobile App Development", "amountOfVideos": 123},
-    { "title": "Cybersecurity", "amountOfVideos": 104},
-    { "title": "Ruby on Rails", "amountOfVideos": 88},
-    { "title": "Unity Game Development", "amountOfVideos": 117},
-    { "title": "DevOps", "amountOfVideos": 92},
-    { "title": "React Native", "amountOfVideos": 99},
-    { "title": "Vue.js Components", "amountOfVideos": 80},
-    { "title": "Artificial Intelligence Basics", "amountOfVideos": 150},
-    { "title": "iOS App Development", "amountOfVideos": 115},
-    { "title": "Swift Programming", "amountOfVideos": 98},
-    { "title": "React Hooks", "amountOfVideos": 105},
-    { "title": "Big Data Analytics", "amountOfVideos": 130},
-    { "title": "Flutter Framework", "amountOfVideos": 88},
-    { "title": "Blockchain Fundamentals", "amountOfVideos": 120},
-    { "title": "Linux Administration", "amountOfVideos": 95},
-    { "title": "Vue.js Advanced Techniques", "amountOfVideos": 112},
-    { "title": "JavaScript", "amountOfVideos": 108 },
-    { "title": "Python", "amountOfVideos": 76 },
-    { "title": "Machine Learning", "amountOfVideos": 93 },
-    { "title": "Web Development", "amountOfVideos": 121 },
-    { "title": "Data Science", "amountOfVideos": 84 },
-    { "title": "React", "amountOfVideos": 142 },
-    { "title": "Java", "amountOfVideos": 115 },
-    { "title": "Node.js", "amountOfVideos": 99 },
-    { "title": "Angular", "amountOfVideos": 130 },
-    { "title": "Vue.js", "amountOfVideos": 88 },
-    { "title": "GraphQL", "amountOfVideos": 110},
-    { "title": "Django", "amountOfVideos": 95},
-    { "title": "C++ Programming", "amountOfVideos": 78},
-    { "title": "AWS Cloud", "amountOfVideos": 135},
-    { "title": "Mobile App Development", "amountOfVideos": 123},
-    { "title": "Cybersecurity", "amountOfVideos": 104},
-    { "title": "Ruby on Rails", "amountOfVideos": 88},
-    { "title": "Unity Game Development", "amountOfVideos": 117},
-    { "title": "DevOps", "amountOfVideos": 92},
-    { "title": "React Native", "amountOfVideos": 99}
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 108,
+      "id": "dd87"
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 76,
+      "id": "713e"
+    },
+    {
+      "title": "Machine Learning",
+      "slug": "old",
+      "amountOfVideos": 93,
+      "id": "2e16"
+    },
+    {
+      "title": "Web Development",
+      "slug": "old",
+      "amountOfVideos": 121,
+      "id": "0277"
+    },
+    {
+      "title": "Data Science",
+      "slug": "old",
+      "amountOfVideos": 84,
+      "id": "5411"
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "4d3f"
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "6880"
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 99,
+      "id": "9ca6"
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 130,
+      "id": "a124"
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "4b28"
+    },
+    {
+      "title": "GraphQL",
+      "slug": "old",
+      "amountOfVideos": 110,
+      "id": "530b"
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 95,
+      "id": "6e83"
+    },
+    {
+      "title": "C++ Programming",
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "bb68"
+    },
+    {
+      "title": "AWS Cloud",
+      "slug": "old",
+      "amountOfVideos": 135,
+      "id": "1452"
+    },
+    {
+      "title": "Mobile App Development",
+      "slug": "old",
+      "amountOfVideos": 123,
+      "id": "38ae"
+    },
+    {
+      "title": "Cybersecurity",
+      "slug": "old",
+      "amountOfVideos": 104,
+      "id": "b9c8"
+    },
+    {
+      "title": "Ruby on Rails",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "047f"
+    },
+    {
+      "title": "Unity Game Development",
+      "slug": "old",
+      "amountOfVideos": 117,
+      "id": "ae30"
+    },
+    {
+      "title": "DevOps",
+      "slug": "old",
+      "amountOfVideos": 92,
+      "id": "aec9"
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 99,
+      "id": "6a6f"
+    },
+    {
+      "title": "Vue.js Components",
+      "slug": "old",
+      "amountOfVideos": 80,
+      "id": "2635"
+    },
+    {
+      "title": "Artificial Intelligence Basics",
+      "slug": "old",
+      "amountOfVideos": 150,
+      "id": "075a"
+    },
+    {
+      "title": "iOS App Development",
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "8184"
+    },
+    {
+      "title": "Swift Programming",
+      "slug": "old",
+      "amountOfVideos": 98,
+      "id": "e290"
+    },
+    {
+      "title": "React Hooks",
+      "slug": "old",
+      "amountOfVideos": 105,
+      "id": "c552"
+    },
+    {
+      "title": "Big Data Analytics",
+      "slug": "old",
+      "amountOfVideos": 130,
+      "id": "a089"
+    },
+    {
+      "title": "Flutter Framework",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "e188"
+    },
+    {
+      "title": "Blockchain Fundamentals",
+      "slug": "old",
+      "amountOfVideos": 120,
+      "id": "f6cd"
+    },
+    {
+      "title": "Linux Administration",
+      "slug": "old",
+      "amountOfVideos": 95,
+      "id": "8fa9"
+    },
+    {
+      "title": "Vue.js Advanced Techniques",
+      "slug": "old",
+      "amountOfVideos": 112,
+      "id": "5d9b"
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 108,
+      "id": "61fd"
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 76,
+      "id": "6788"
+    },
+    {
+      "title": "Machine Learning",
+      "slug": "old",
+      "amountOfVideos": 93,
+      "id": "f0b5"
+    },
+    {
+      "title": "Web Development",
+      "slug": "old",
+      "amountOfVideos": 121,
+      "id": "cd0d"
+    },
+    {
+      "title": "Data Science",
+      "slug": "old",
+      "amountOfVideos": 84,
+      "id": "c3f1"
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "cfb5"
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "5d95"
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 99,
+      "id": "9a76"
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 130,
+      "id": "f93c"
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "0ea3"
+    },
+    {
+      "title": "GraphQL",
+      "slug": "old",
+      "amountOfVideos": 110,
+      "id": "01c7"
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 95,
+      "id": "2b6e"
+    },
+    {
+      "title": "C++ Programming",
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "3d4d"
+    },
+    {
+      "title": "AWS Cloud",
+      "slug": "old",
+      "amountOfVideos": 135,
+      "id": "307d"
+    },
+    {
+      "title": "Mobile App Development",
+      "slug": "old",
+      "amountOfVideos": 123,
+      "id": "91b1"
+    },
+    {
+      "title": "Cybersecurity",
+      "slug": "old",
+      "amountOfVideos": 104,
+      "id": "f27f"
+    },
+    {
+      "title": "Ruby on Rails",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "2dec"
+    },
+    {
+      "title": "Unity Game Development",
+      "slug": "old",
+      "amountOfVideos": 117,
+      "id": "618e"
+    },
+    {
+      "title": "DevOps",
+      "slug": "old",
+      "amountOfVideos": 92,
+      "id": "93dc"
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 99,
+      "id": "6b83"
+    },
+    {
+      "title": "Vue.js Components",
+      "slug": "old",
+      "amountOfVideos": 80,
+      "id": "125e"
+    },
+    {
+      "title": "Artificial Intelligence Basics",
+      "slug": "old",
+      "amountOfVideos": 150,
+      "id": "edad"
+    },
+    {
+      "title": "iOS App Development",
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "37c8"
+    },
+    {
+      "title": "Swift Programming",
+      "slug": "old",
+      "amountOfVideos": 98,
+      "id": "b529"
+    },
+    {
+      "title": "React Hooks",
+      "slug": "old",
+      "amountOfVideos": 105,
+      "id": "9232"
+    },
+    {
+      "title": "Big Data Analytics",
+      "slug": "old",
+      "amountOfVideos": 130,
+      "id": "4790"
+    },
+    {
+      "title": "Flutter Framework",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "33fa"
+    },
+    {
+      "title": "Blockchain Fundamentals",
+      "slug": "old",
+      "amountOfVideos": 120,
+      "id": "98fe"
+    },
+    {
+      "title": "Linux Administration",
+      "slug": "old",
+      "amountOfVideos": 95,
+      "id": "42e5"
+    },
+    {
+      "title": "Vue.js Advanced Techniques",
+      "slug": "old",
+      "amountOfVideos": 112,
+      "id": "0519"
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 108,
+      "id": "694f"
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 76,
+      "id": "9e8b"
+    },
+    {
+      "title": "Machine Learning",
+      "slug": "old",
+      "amountOfVideos": 93,
+      "id": "0b71"
+    },
+    {
+      "title": "Web Development",
+      "slug": "old",
+      "amountOfVideos": 121,
+      "id": "3efb"
+    },
+    {
+      "title": "Data Science",
+      "slug": "old",
+      "amountOfVideos": 84,
+      "id": "8487"
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "c454"
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "815e"
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 99,
+      "id": "bf47"
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 130,
+      "id": "e900"
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "c371"
+    },
+    {
+      "title": "GraphQL",
+      "slug": "old",
+      "amountOfVideos": 110,
+      "id": "c7cc"
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 95,
+      "id": "7fc9"
+    },
+    {
+      "title": "C++ Programming",
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "3b52"
+    },
+    {
+      "title": "AWS Cloud",
+      "slug": "old",
+      "amountOfVideos": 135,
+      "id": "8396"
+    },
+    {
+      "title": "Mobile App Development",
+      "slug": "old",
+      "amountOfVideos": 123,
+      "id": "defb"
+    },
+    {
+      "title": "Cybersecurity",
+      "slug": "old",
+      "amountOfVideos": 104,
+      "id": "fa8f"
+    },
+    {
+      "title": "Ruby on Rails",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "d342"
+    },
+    {
+      "title": "Unity Game Development",
+      "slug": "old",
+      "amountOfVideos": 117,
+      "id": "d9bc"
+    },
+    {
+      "title": "DevOps",
+      "slug": "old",
+      "amountOfVideos": 92,
+      "id": "8c0f"
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 99,
+      "id": "34a8"
+    },
+    {
+      "title": "Vue.js Components",
+      "slug": "old",
+      "amountOfVideos": 80,
+      "id": "5c50"
+    },
+    {
+      "title": "Artificial Intelligence Basics",
+      "slug": "old",
+      "amountOfVideos": 150,
+      "id": "57a3"
+    },
+    {
+      "title": "iOS App Development",
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "b7f5"
+    },
+    {
+      "title": "Swift Programming",
+      "slug": "old",
+      "amountOfVideos": 98,
+      "id": "5788"
+    },
+    {
+      "title": "React Hooks",
+      "slug": "old",
+      "amountOfVideos": 105,
+      "id": "bc4c"
+    },
+    {
+      "title": "Big Data Analytics",
+      "slug": "old",
+      "amountOfVideos": 130,
+      "id": "3e2b"
+    },
+    {
+      "title": "Flutter Framework",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "e9f9"
+    },
+    {
+      "title": "Blockchain Fundamentals",
+      "slug": "old",
+      "amountOfVideos": 120,
+      "id": "0410"
+    },
+    {
+      "title": "Linux Administration",
+      "slug": "old",
+      "amountOfVideos": 95,
+      "id": "a4ab"
+    },
+    {
+      "title": "Vue.js Advanced Techniques",
+      "slug": "old",
+      "amountOfVideos": 112,
+      "id": "e75e"
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 108,
+      "id": "238a"
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 76,
+      "id": "f7c5"
+    },
+    {
+      "title": "Machine Learning",
+      "slug": "old",
+      "amountOfVideos": 93,
+      "id": "789f"
+    },
+    {
+      "title": "Web Development",
+      "slug": "old",
+      "amountOfVideos": 121,
+      "id": "47de"
+    },
+    {
+      "title": "Data Science",
+      "slug": "old",
+      "amountOfVideos": 84,
+      "id": "7d20"
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "68fb"
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "27ac"
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 99,
+      "id": "f5fe"
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 130,
+      "id": "50f0"
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "0733"
+    },
+    {
+      "title": "GraphQL",
+      "slug": "old",
+      "amountOfVideos": 110,
+      "id": "a638"
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 95,
+      "id": "fde6"
+    },
+    {
+      "title": "C++ Programming",
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "f2f0"
+    },
+    {
+      "title": "AWS Cloud",
+      "slug": "old",
+      "amountOfVideos": 135,
+      "id": "fb82"
+    },
+    {
+      "title": "Mobile App Development",
+      "slug": "old",
+      "amountOfVideos": 123,
+      "id": "43c0"
+    },
+    {
+      "title": "Cybersecurity",
+      "slug": "old",
+      "amountOfVideos": 104,
+      "id": "cddc"
+    },
+    {
+      "title": "Ruby on Rails",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "51d0"
+    },
+    {
+      "title": "Unity Game Development",
+      "slug": "old",
+      "amountOfVideos": 117,
+      "id": "ceb2"
+    },
+    {
+      "title": "DevOps",
+      "slug": "old",
+      "amountOfVideos": 92,
+      "id": "66f5"
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 99,
+      "id": "d841"
+    },
+    {
+      "title": "Vue.js Components",
+      "slug": "old",
+      "amountOfVideos": 80,
+      "id": "de51"
+    },
+    {
+      "title": "Artificial Intelligence Basics",
+      "slug": "old",
+      "amountOfVideos": 150,
+      "id": "5e10"
+    },
+    {
+      "title": "iOS App Development",
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "6963"
+    },
+    {
+      "title": "Swift Programming",
+      "slug": "old",
+      "amountOfVideos": 98,
+      "id": "9a32"
+    },
+    {
+      "title": "React Hooks",
+      "slug": "old",
+      "amountOfVideos": 105,
+      "id": "5e95"
+    },
+    {
+      "title": "Big Data Analytics",
+      "slug": "old",
+      "amountOfVideos": 130,
+      "id": "0eed"
+    },
+    {
+      "title": "Flutter Framework",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "3416"
+    },
+    {
+      "title": "Blockchain Fundamentals",
+      "slug": "old",
+      "amountOfVideos": 120,
+      "id": "a9f9"
+    },
+    {
+      "title": "Linux Administration",
+      "slug": "old",
+      "amountOfVideos": 95,
+      "id": "25fa"
+    },
+    {
+      "title": "Vue.js Advanced Techniques",
+      "slug": "old",
+      "amountOfVideos": 112,
+      "id": "f294"
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 108,
+      "id": "a870"
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 76,
+      "id": "27df"
+    },
+    {
+      "title": "Machine Learning",
+      "slug": "old",
+      "amountOfVideos": 93,
+      "id": "ffea"
+    },
+    {
+      "title": "Web Development",
+      "slug": "old",
+      "amountOfVideos": 121,
+      "id": "a57c"
+    },
+    {
+      "title": "Data Science",
+      "slug": "old",
+      "amountOfVideos": 84,
+      "id": "65d0"
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "550f"
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "396e"
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 99,
+      "id": "72a9"
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 130,
+      "id": "5f72"
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "cf4b"
+    },
+    {
+      "title": "GraphQL",
+      "slug": "old",
+      "amountOfVideos": 110,
+      "id": "c53e"
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 95,
+      "id": "8de0"
+    },
+    {
+      "title": "C++ Programming",
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "024e"
+    },
+    {
+      "title": "AWS Cloud",
+      "slug": "old",
+      "amountOfVideos": 135,
+      "id": "6c4a"
+    },
+    {
+      "title": "Mobile App Development",
+      "slug": "old",
+      "amountOfVideos": 123,
+      "id": "d251"
+    },
+    {
+      "title": "Cybersecurity",
+      "slug": "old",
+      "amountOfVideos": 104,
+      "id": "cb0c"
+    },
+    {
+      "title": "Ruby on Rails",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "978e"
+    },
+    {
+      "title": "Unity Game Development",
+      "slug": "old",
+      "amountOfVideos": 117,
+      "id": "5098"
+    },
+    {
+      "title": "DevOps",
+      "slug": "old",
+      "amountOfVideos": 92,
+      "id": "3766"
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 99,
+      "id": "94f0"
+    },
+    {
+      "title": "Vue.js Components",
+      "slug": "old",
+      "amountOfVideos": 80,
+      "id": "d0e5"
+    },
+    {
+      "title": "Artificial Intelligence Basics",
+      "slug": "old",
+      "amountOfVideos": 150,
+      "id": "bd5e"
+    },
+    {
+      "title": "iOS App Development",
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "08ff"
+    },
+    {
+      "title": "Swift Programming",
+      "slug": "old",
+      "amountOfVideos": 98,
+      "id": "93f6"
+    },
+    {
+      "title": "React Hooks",
+      "slug": "old",
+      "amountOfVideos": 105,
+      "id": "ecc4"
+    },
+    {
+      "title": "Big Data Analytics",
+      "slug": "old",
+      "amountOfVideos": 130,
+      "id": "8aad"
+    },
+    {
+      "title": "Flutter Framework",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "b6e4"
+    },
+    {
+      "title": "Blockchain Fundamentals",
+      "slug": "old",
+      "amountOfVideos": 120,
+      "id": "8f53"
+    },
+    {
+      "title": "Linux Administration",
+      "slug": "old",
+      "amountOfVideos": 95,
+      "id": "4026"
+    },
+    {
+      "title": "Vue.js Advanced Techniques",
+      "slug": "old",
+      "amountOfVideos": 112,
+      "id": "fed6"
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 108,
+      "id": "aa6f"
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 76,
+      "id": "b8fe"
+    },
+    {
+      "title": "Machine Learning",
+      "slug": "old",
+      "amountOfVideos": 93,
+      "id": "5fee"
+    },
+    {
+      "title": "Web Development",
+      "slug": "old",
+      "amountOfVideos": 121,
+      "id": "6da8"
+    },
+    {
+      "title": "Data Science",
+      "slug": "old",
+      "amountOfVideos": 84,
+      "id": "0b62"
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "ea65"
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "deee"
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 99,
+      "id": "c41a"
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 130,
+      "id": "0476"
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "ffc4"
+    },
+    {
+      "title": "GraphQL",
+      "slug": "old",
+      "amountOfVideos": 110,
+      "id": "ca86"
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 95,
+      "id": "1090"
+    },
+    {
+      "title": "C++ Programming",
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "5561"
+    },
+    {
+      "title": "AWS Cloud",
+      "slug": "old",
+      "amountOfVideos": 135,
+      "id": "a789"
+    },
+    {
+      "title": "Mobile App Development",
+      "slug": "old",
+      "amountOfVideos": 123,
+      "id": "9282"
+    },
+    {
+      "title": "Cybersecurity",
+      "slug": "old",
+      "amountOfVideos": 104,
+      "id": "77d3"
+    },
+    {
+      "title": "Ruby on Rails",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "0af5"
+    },
+    {
+      "title": "Unity Game Development",
+      "slug": "old",
+      "amountOfVideos": 117,
+      "id": "dd73"
+    },
+    {
+      "title": "DevOps",
+      "slug": "old",
+      "amountOfVideos": 92,
+      "id": "1333"
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 99,
+      "id": "213d"
+    },
+    {
+      "title": "Vue.js Components",
+      "slug": "old",
+      "amountOfVideos": 80,
+      "id": "e51c"
+    },
+    {
+      "title": "Artificial Intelligence Basics",
+      "slug": "old",
+      "amountOfVideos": 150,
+      "id": "9c96"
+    },
+    {
+      "title": "iOS App Development",
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "c1c7"
+    },
+    {
+      "title": "Swift Programming",
+      "slug": "old",
+      "amountOfVideos": 98,
+      "id": "4ce3"
+    },
+    {
+      "title": "React Hooks",
+      "slug": "old",
+      "amountOfVideos": 105,
+      "id": "a075"
+    },
+    {
+      "title": "Big Data Analytics",
+      "slug": "old",
+      "amountOfVideos": 130,
+      "id": "3511"
+    },
+    {
+      "title": "Flutter Framework",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "24de"
+    },
+    {
+      "title": "Blockchain Fundamentals",
+      "slug": "old",
+      "amountOfVideos": 120,
+      "id": "64dd"
+    },
+    {
+      "title": "Linux Administration",
+      "slug": "old",
+      "amountOfVideos": 95,
+      "id": "1955"
+    },
+    {
+      "title": "Vue.js Advanced Techniques",
+      "slug": "old",
+      "amountOfVideos": 112,
+      "id": "a274"
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 108,
+      "id": "cee4"
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 76,
+      "id": "42bd"
+    },
+    {
+      "title": "Machine Learning",
+      "slug": "old",
+      "amountOfVideos": 93,
+      "id": "2431"
+    },
+    {
+      "title": "Web Development",
+      "slug": "old",
+      "amountOfVideos": 121,
+      "id": "0b9d"
+    },
+    {
+      "title": "Data Science",
+      "slug": "old",
+      "amountOfVideos": 84,
+      "id": "0235"
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142,
+      "id": "3d51"
+    },
+    {
+      "title": "Java",
+      "slug": "old",
+      "amountOfVideos": 115,
+      "id": "863e"
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 99,
+      "id": "f3f2"
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 130,
+      "id": "12a8"
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "7ecd"
+    },
+    {
+      "title": "GraphQL",
+      "slug": "old",
+      "amountOfVideos": 110,
+      "id": "2cae"
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 95,
+      "id": "cfc2"
+    },
+    {
+      "title": "C++ Programming",
+      "slug": "old",
+      "amountOfVideos": 78,
+      "id": "d09e"
+    },
+    {
+      "title": "AWS Cloud",
+      "slug": "old",
+      "amountOfVideos": 135,
+      "id": "e4ef"
+    },
+    {
+      "title": "Mobile App Development",
+      "slug": "old",
+      "amountOfVideos": 123,
+      "id": "b77d"
+    },
+    {
+      "title": "Cybersecurity",
+      "slug": "old",
+      "amountOfVideos": 104,
+      "id": "af79"
+    },
+    {
+      "title": "Ruby on Rails",
+      "slug": "old",
+      "amountOfVideos": 88,
+      "id": "a155"
+    },
+    {
+      "title": "Unity Game Development",
+      "slug": "old",
+      "amountOfVideos": 117,
+      "id": "cfc8"
+    },
+    {
+      "title": "DevOps",
+      "slug": "old",
+      "amountOfVideos": 92,
+      "id": "6cd8"
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 99,
+      "id": "26a4"
+    }
   ]
 }
